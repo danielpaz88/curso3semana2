@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Logeo</string>
+    <string name="BotonSiguiente">Siguiente</string>
+    <string name="BotonAnterior">Editar datos</string>
+    <string name="ingreseNombre">Ingrese nombre</string>
+    <string name="pistamail">Ingrese e-mail</string>
+    <string name="pistatelefono">Ingrese número de teléfono</string>
+    <string name="pistadescripcion">Ingrese descripción</string>
+    <string name="nombreSeleccionado">Nombre: </string>
+    <string name="telefonoSeleccionado">Teléfono: </string>
+    <string name="fechaSeleccionada">Fecha de nacimiento: </string>
+    <string name="emailSeleccionado">Email: </string>
+    <string name="descripcionSeleccionada">Descripción: </string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ingreseNombre">20sp</dimen>
+    <dimen name="margenTop">15dp</dimen>
+
+
+</resources>
